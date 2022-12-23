@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
