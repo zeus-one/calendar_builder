@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add plot_images conf_thresh parameter (#8446)
