@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
