@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
