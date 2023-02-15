@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
