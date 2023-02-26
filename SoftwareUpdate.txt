@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Add visuals in guides/distance-calculation.md (#7876)
