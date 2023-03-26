@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
