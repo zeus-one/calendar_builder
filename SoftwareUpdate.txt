@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
