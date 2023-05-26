@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
