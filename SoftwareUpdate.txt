@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
