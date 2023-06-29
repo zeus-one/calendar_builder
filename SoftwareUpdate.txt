@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
