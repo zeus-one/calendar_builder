@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+OpenVino 2024.0.0 (#8726)
