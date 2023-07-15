@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+* fix for predicting with batch_size > 1
