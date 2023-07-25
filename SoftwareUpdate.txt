@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
