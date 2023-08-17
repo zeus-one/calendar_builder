@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Fix docker.yaml double-quote version bug (#7452)
