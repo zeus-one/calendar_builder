@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
