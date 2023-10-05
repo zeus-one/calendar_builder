@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update Colab notebook for YOLOv8.1 (#8660)
