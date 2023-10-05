@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
