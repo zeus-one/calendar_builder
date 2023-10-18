@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
