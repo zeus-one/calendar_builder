@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+OBB: Fix when training on zip data (#8680)
