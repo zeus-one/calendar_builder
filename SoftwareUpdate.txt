@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Allow Annotator PIL.Image inputs (#8397)
