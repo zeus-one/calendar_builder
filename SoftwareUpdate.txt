@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
