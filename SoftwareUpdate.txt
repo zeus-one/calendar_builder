@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Clarify triton server boolean value (#8532)
