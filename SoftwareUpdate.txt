@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
