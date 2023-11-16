@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+YOLOv8 INT8 TFLite Inference Example (#7317)
