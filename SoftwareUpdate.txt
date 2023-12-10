@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
