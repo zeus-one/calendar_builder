@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Update Colab notebook for YOLOv8.1 (#8660)
