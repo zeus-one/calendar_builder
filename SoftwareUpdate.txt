@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
