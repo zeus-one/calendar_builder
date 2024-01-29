@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
