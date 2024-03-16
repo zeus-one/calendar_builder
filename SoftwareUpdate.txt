@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
