@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Fix Yolo 8.0.206 scale bug (#7821)
