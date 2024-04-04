@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Update pyproject.toml and Docs (#7274)
