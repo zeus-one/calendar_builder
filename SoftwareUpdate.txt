@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add CoreML Docs Integrations Page (#8063)
