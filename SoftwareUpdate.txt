@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix IS_PYTHON_3_12 bug (#9258)
