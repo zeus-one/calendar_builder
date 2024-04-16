@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
