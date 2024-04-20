@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Compress docs images (#8124)
