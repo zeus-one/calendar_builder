@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
