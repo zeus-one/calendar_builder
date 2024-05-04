@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Add https://youtu.be/YDXKa1EljmU and https://youtu.be/5BO0Il_YYAg to Docs (#8958)
