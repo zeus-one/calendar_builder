@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
