@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Remove unused variables (#8511)
