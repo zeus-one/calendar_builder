@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+added badges (#45)
