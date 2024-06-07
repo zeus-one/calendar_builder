@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+YOLOv8 INT8 TFLite Inference Example (#7317)
