@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
