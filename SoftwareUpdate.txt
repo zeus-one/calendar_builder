@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Update Colab notebook for YOLOv8.1 (#8660)
