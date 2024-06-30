@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+New HUB Cloud Training docs page (#8174)
