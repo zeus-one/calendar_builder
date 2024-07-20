@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
