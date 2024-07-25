@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
