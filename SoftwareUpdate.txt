@@ -1,1 +1,1 @@
-added badges (#45)
+Move Explorer tests to scheduled CI (#8305)
