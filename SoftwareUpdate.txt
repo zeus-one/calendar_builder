@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Allow Annotator PIL.Image inputs (#8397)
