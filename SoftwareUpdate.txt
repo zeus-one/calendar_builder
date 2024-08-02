@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update CITATION.cff with cffinit corrections (#8658)
