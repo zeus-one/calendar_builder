@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
